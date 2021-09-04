@@ -14,7 +14,7 @@
     "core-js": "^3.6.5",
     "lodash.debounce": "^4.0.8",
     "vue": "^2.6.11",
-    "vue-apexcharts": "^1.6.0",
+    "vue-apexcharts": "^1.6.2",
     "vue-axios": "^3.2.4",
     "vue-native-websocket": "^2.0.14",
     "vue-router": "^3.2.0",
