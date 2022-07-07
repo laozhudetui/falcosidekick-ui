@@ -1,6 +1,6 @@
 ARG BUILDER_IMAGE=golang:1.16.1
 ARG FRONTEND_IMAGE=node:14-alpine
-ARG BASE_IMAGE=alpine:3.13
+ARG BASE_IMAGE=alpine:3.15
 
 FROM ${FRONTEND_IMAGE} as frontend-stage
 
