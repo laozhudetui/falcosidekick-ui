@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "apexcharts": "^3.26.0",
-    "axios": "^0.21.1",
+    "axios": "^1.6.3",
     "comlink": "^4.3.0",
     "core-js": "^3.6.5",
     "lodash.debounce": "^4.0.8",
